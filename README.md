@@ -6,7 +6,6 @@ I'm a passionate **Computer Science enthusiast** and a **competitive programmer*
 
 ### 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mostafa-mahmoud-063073266/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mode4a)  
 [![Codeforces](https://img.shields.io/badge/-Codeforces-FE7A16?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/mostafa_mahmoud4)  
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/mostafa_4/)
 
