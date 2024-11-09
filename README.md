@@ -35,15 +35,4 @@ I'm a passionate **Computer Science enthusiast** and a **competitive programmer*
 | ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mode4a&layout=compact&theme=dark&hide_border=true&langs_count=8) | ![Mostafa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mode4a&show_icons=true&theme=dark&hide_border=true) |
 |:---:|:---:|
 
----
 
-### 🚀 Profile Highlights:
-- 🌟 **Total Stars Earned**: 4  
-- 📄 **Total Commits (2024)**: 56  
-- 🔧 **Total PRs**: 5  
-- 📝 **Total Issues**: 5  
-- 🤝 **Contributed to (last year)**: 2  
-
----
-
-Thanks for stopping by! 😊
