@@ -1,6 +1,6 @@
 # Hi 👋, I'm Mostafa Mahmoud
 
-I'm a passionate **Computer Science enthusiast** and a **competitive programmer** with a strong interest in problem-solving and developing efficient solutions. I enjoy exploring cutting-edge technologies and working on projects that make a difference. 
+I'm a passionate **undergraduate software engineer** and a **competitive programmer** with a strong interest in problem-solving and developing efficient solutions. I enjoy exploring cutting-edge technologies and working on projects that make a difference. 
 
 ---
 
