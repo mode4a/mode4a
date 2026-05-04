@@ -40,9 +40,6 @@ I'm a **Software Engineer** and **Computer & Systems Engineering student** at Al
 
 ---
 
-### 📊 GitHub Stats
-| ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mode4a&layout=compact&theme=dark&hide_border=true&langs_count=8) | ![Mostafa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mode4a&show_icons=true&theme=dark&hide_border=true) |
-|:---:|:---:|
 
 ---
 
