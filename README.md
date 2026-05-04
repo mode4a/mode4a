@@ -40,6 +40,18 @@ I'm a **Software Engineer** and **Computer & Systems Engineering student** at Al
 
 ---
 
+<h2>📊 GitHub Stats</h2>
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=mode4a&theme=tokyonight" alt="GitHub Streak">
+  </a>
+  <img width="400" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=HuzaifaOmar&langs_count=6&layout=compact&theme=tokyonight&hide_border=true&hide=Jupyter%20Notebook,Roff" alt="Top Languages">
+</div>
+
+<!-- Activity Graph -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph/?username=mode4a&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="Activity Graph">
+
+<img src="https://raw.githubusercontent.com/HuzaifaOmar/HuzaifaOmar/output/snake.svg" alt="Snake animation" />
 
 ---
 
